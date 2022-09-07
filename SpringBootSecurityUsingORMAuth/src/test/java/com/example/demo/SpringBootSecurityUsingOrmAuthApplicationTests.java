@@ -6,8 +6,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class SpringBootSecurityUsingOrmAuthApplicationTests {
 
-	@Test
+	
 	//hii iam kumargoud
+	//hello rajesh
 	void contextLoads() {
 	}
 
